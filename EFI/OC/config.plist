@@ -1150,7 +1150,7 @@
 				<key>prev-lang:kbd</key>
 				<string>en-US:0</string>
 				<key>boot-args</key>
-				<string>-amfipassbeta</string>
+				<string>-amfipassbeta npci=0x2000 alcid=12</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
